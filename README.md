@@ -55,3 +55,11 @@ Ez a Python program egy **F1-es szabadedzés** adatainak elemzésére, vizualiz�
 
 - Jobbra nyíl / PageDown: következő oldal
 - Balra nyíl / PageUp: előző oldal
+
+---
+
+## Példák a vizualizációkra
+
+![Szabadedzés köridők](images/practice_laptimes.png)
+![Kerékcserék/stintváltások](images/tyre_changes.png)
+![Versenystratégia](images/race_strategy.png)

@@ -30,10 +30,6 @@ Ez a Python program egy **F1-es szabadedzés** adatainak elemzésére, vizualiz�
      2. **Kerékcserék/stintváltások:** színes sávok, függőleges vonalak a cseréknél, háttérben a köridő-görbe.
      3. **Versenystratégia:** stintek, pitstopok, compound színezéssel.
 
-5. **Vizualizáció**
-    1. **Szabadedzés köridők**: Compound színezéssel, minden kör külön pontként, laptime kiírva
-    2. **Kerékcserék/stintváltások:** Színes sávok, függőleges vonalak, háttérben a köridő-görbe.
-    3. **Versenystratégia:** Stintek, pitstopok, compound színezéssel.
 ---
 
 ## ⌨️ Használat
